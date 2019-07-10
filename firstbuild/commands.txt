@@ -1,0 +1,2 @@
+
+docker image build -t ex-simple-build .
